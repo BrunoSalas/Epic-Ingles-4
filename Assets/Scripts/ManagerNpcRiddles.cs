@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Text.RegularExpressions;
 using TMPro;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.UI;
 
 public class ManagerNpcRiddles : MonoBehaviour
@@ -12,6 +13,8 @@ public class ManagerNpcRiddles : MonoBehaviour
     [HideInInspector]public List<AudioSource> audioSource = new List<AudioSource>();
 
     public GameObject panel;
+    private int currentcorrectAnswers=0;
+    public UnityEvent allRiddlesComplete;
 
     private void Awake()
     {
@@ -50,7 +53,11 @@ public class ManagerNpcRiddles : MonoBehaviour
                 {
                     DisableEmpty();
                     npc.complete.Invoke();
-
+                    currentcorrectAnswers++;
+                    if (currentcorrectAnswers >= npcs.Count)
+                    {
+                        allRiddlesComplete?.Invoke();
+                    }
                     if (response.audioClip!=null)
                     {
                         npc.AudiosResponse(response.audioClip); 
@@ -71,6 +78,11 @@ public class ManagerNpcRiddles : MonoBehaviour
                 
             }
         }
+    }
+
+    private void OnDisable()
+    {
+        currentcorrectAnswers = 0;
     }
 
     private void DisableEmpty()
