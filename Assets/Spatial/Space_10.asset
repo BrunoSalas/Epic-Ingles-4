@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 1
   sku: cngf8fbagh9k963dq9rlx266
-  packageName: Tech-Con - UAM
+  packageName: Tech-Con - UAMP
   thumbnail: {fileID: 2800000, guid: a7f8ad1b2f1ba03408d8d9bfc3c31ab3, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
