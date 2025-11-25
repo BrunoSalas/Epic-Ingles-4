@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chef Robot
+* source:	https://sketchfab.com/3d-models/chef-robot-87c5c03926a441c4b2ac1b55dd5d6dea
+* author:	galax_evan (https://sketchfab.com/galax_evan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chef Robot" (https://sketchfab.com/3d-models/chef-robot-87c5c03926a441c4b2ac1b55dd5d6dea) by galax_evan (https://sketchfab.com/galax_evan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

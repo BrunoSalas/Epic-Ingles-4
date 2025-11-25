@@ -1,0 +1,11 @@
+Model Information:
+* title:	Double Doors With Windows
+* source:	https://sketchfab.com/3d-models/double-doors-with-windows-79ebb7d7e2ec415b9320f4680440ed0e
+* author:	PIPO (https://sketchfab.com/pipo_)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Double Doors With Windows" (https://sketchfab.com/3d-models/double-doors-with-windows-79ebb7d7e2ec415b9320f4680440ed0e) by PIPO (https://sketchfab.com/pipo_) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
