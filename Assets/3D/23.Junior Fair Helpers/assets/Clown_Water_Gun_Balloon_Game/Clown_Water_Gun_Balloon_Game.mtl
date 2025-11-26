@@ -1,0 +1,294 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 6.5 x64 6.5.0.9182
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl plastic7
+Ka 0 0.466667 0.0235294
+Kd 0 0.466667 0.0235294
+Ks 0.9 0.9 0.9
+illum 2
+Ns 32
+map_Kd 
+map_bump water_pistol_bump.png
+bump water_pistol_bump.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl plastic8
+Ka 1 0 0
+Kd 1 0 0
+Ks 0.9 0.9 0.9
+illum 2
+Ns 32
+map_Kd 
+map_bump water_pistol_bump.png
+bump water_pistol_bump.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl plastic9
+Ka 0.0862745 0 0.368627
+Kd 0.0862745 0 0.368627
+Ks 0.9 0.9 0.9
+illum 2
+Ns 32
+map_Kd 
+map_bump water_pistol_bump.png
+bump water_pistol_bump.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl plastic10
+Ka 0 0.0705882 0.368627
+Kd 0 0.0705882 0.368627
+Ks 0.9 0.9 0.9
+illum 2
+Ns 32
+map_Kd 
+map_bump water_pistol_bump.png
+bump water_pistol_bump.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl plastic2
+Ka 0.745098 0.560784 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 27.8576
+map_Kd water_pistol_plastic2_diffuse.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl plastic3
+Ka 0.745098 0.560784 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 27.8576
+map_Kd water_pistol_plastic3_diffuse.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl plastic4
+Ka 0.745098 0.560784 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 27.8576
+map_Kd water_pistol_plastic4_diffuse.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl plastic5
+Ka 0.745098 0.560784 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 27.8576
+map_Kd water_pistol_plastic5_diffuse.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl plastic6
+Ka 0.745098 0.560784 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 27.8576
+map_Kd water_pistol_plastic6_diffuse.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl metal
+Ka 0.294118 0.294118 0.294118
+Kd 0.294118 0.294118 0.294118
+Ks 0.9 0.9 0.9
+illum 2
+Ns 34.2967
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl plastic1
+Ka 0.490196 0.490196 0.490196
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 32
+map_Kd water_pistol_plastic1_diffuse.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl plastic12
+Ka 0.00784314 0.00784314 0.00784314
+Kd 0.00784314 0.00784314 0.00784314
+Ks 0.9 0.9 0.9
+illum 2
+Ns 32
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl plastic13
+Ka 0.309804 0.137255 0
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 32
+map_Kd water_pistol_plastic13_diffuse.png
+map_bump water_pistol_bump.png
+bump water_pistol_bump.png
+map_opacity 
+map_d 
+refl 
+map_kS water_pistol_reflect.png
+map_kA 
+map_Ns 
+
+newmtl plastic22
+Ka 0.00784314 0.00784314 0.00784314
+Kd 0.00784314 0.00784314 0.00784314
+Ks 0.9 0.9 0.9
+illum 2
+Ns 32
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl plastic11
+Ka 0.00784314 0.00784314 0.00784314
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 32
+map_Kd water_pistol_plastic11_diffuse.png
+map_bump water_pistol_bump.png
+bump water_pistol_bump.png
+map_opacity 
+map_d 
+refl 
+map_kS water_pistol_reflect.png
+map_kA 
+map_Ns 
+
+newmtl plastic_blue
+Ka 0.501961 0.501961 0.501961
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 36.7583
+map_Kd water_pistol_plastic_blue_diffuse.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS water_pistol_reflect.png
+map_kA 
+map_Ns 
+
+newmtl plastic_yellow
+Ka 0.909804 0.427451 0
+Kd 0.909804 0.427451 0
+Ks 1 1 1
+illum 2
+Ns 8
+map_Kd 
+map_bump water_pistol_bump.png
+bump water_pistol_bump.png
+map_opacity 
+map_d 
+refl 
+map_kS water_pistol_bump.png
+map_kA 
+map_Ns 
+
+newmtl painted_metal
+Ka 0 0.0156863 0.368627
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 90.5097
+map_Kd water_pistol_green_metal_diffuse.png
+map_bump water_pistol_bump.png
+bump water_pistol_bump.png
+map_opacity 
+map_d 
+refl 
+map_kS water_pistol_reflect.png
+map_kA 
+map_Ns 
