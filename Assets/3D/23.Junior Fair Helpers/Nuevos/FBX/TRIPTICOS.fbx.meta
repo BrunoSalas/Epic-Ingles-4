@@ -3,7 +3,22 @@ guid: e5fc62502e880fd499762e9d93360fd0
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_26
+    second: {fileID: 2100000, guid: 13b02c0bf4b4d9c4083d73d0ae320ce8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRIPTICO_FRENTE
+    second: {fileID: 2100000, guid: 7eb3b942c7ea1064e8228d6ba7286bf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRIPTICO_FRENTE.001
+    second: {fileID: 2100000, guid: 4c378fd8a1346c44aace406293ab73e2, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

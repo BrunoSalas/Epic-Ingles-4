@@ -14,7 +14,7 @@ public class ObjectType : MonoBehaviour
         MapBrochure,
         TicketBox,
         DirectionArrow,
-        CleaningKit,
+        TrashBag,
         InfoBadge,
         SafetyCone,
         DecorativePlant,
@@ -48,5 +48,6 @@ public class ObjectType : MonoBehaviour
     public void ActivateOriginal()
     {
         originalCopy.SetActive(true);
+        gameObject.SetActive(false);
     }
 }

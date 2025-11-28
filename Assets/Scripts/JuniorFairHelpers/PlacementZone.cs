@@ -5,14 +5,14 @@ public class PlacementZone : MonoBehaviour
 {
     [Header("Configuración de la zona")]
     public ObjectType.Type expectedType = ObjectType.Type.None;
+    [HideInInspector] public bool completed;
+    public CheckCompleteTask completedTask;
+    public SpatialInteractable interactable;
 
-    // Si quieres diferenciar fase 1 (decoración en stand) y fase 2 (meter en caja),
-    // puedes usar este flag para comportamiento específico (por ejemplo, play sound).
-    public bool isPhase2 = false;
-
-    // Si quieres destruir el objeto original agarrado en vez de devolverlo, usa esto.
-    public bool destroyOriginalOnSuccess = true;
-
+    private void Awake()
+    {
+        interactable = GetComponent<SpatialInteractable>();
+    }
     // Llamar desde el SpatialInteractable de la zona (evento OnSelect/OnUse)
     public void TryPlace()
     {
@@ -54,6 +54,9 @@ public class PlacementZone : MonoBehaviour
         {
             PickObject.Instance.Release();
         }
+        completed = true;
+        completedTask.AreAllComplete();
+        interactable.enabled = false;
     }
 
     private void OnWrongPlacement(GameObject held, ObjectType ot)

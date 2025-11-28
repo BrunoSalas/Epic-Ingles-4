@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "E:\\Proyectos\\Epic-Ingles-4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|e:\\proyectos\\epic-ingles-4\\assets\\scripts\\juniorfairhelpers\\pickobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\juniorfairhelpers\\checkcompletetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\juniorfairhelpers\\checkcompletetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|e:\\proyectos\\epic-ingles-4\\assets\\scripts\\juniorfairhelpers\\placementzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\juniorfairhelpers\\placementzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\juniorfairhelpers\\objecttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\juniorfairhelpers\\objecttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\juniorfairhelpers\\pickobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\juniorfairhelpers\\pickobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|e:\\proyectos\\epic-ingles-4\\assets\\scripts\\masterchef\\pot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\masterchef\\pot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|e:\\proyectos\\epic-ingles-4\\assets\\scripts\\juniorfairhelpers\\objecttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\juniorfairhelpers\\objecttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\masterchef\\countdowntimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,9 +57,35 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 226,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckCompleteTask.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\CheckCompleteTask.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\JuniorFairHelpers\\CheckCompleteTask.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\CheckCompleteTask.cs",
+              "RelativeToolTip": "Assets\\Scripts\\JuniorFairHelpers\\CheckCompleteTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:02:14.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlacementZone.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\PlacementZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\JuniorFairHelpers\\PlacementZone.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\PlacementZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\JuniorFairHelpers\\PlacementZone.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:14:38.986Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -60,27 +94,25 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\JuniorFairHelpers\\ObjectType.cs",
               "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\ObjectType.cs",
               "RelativeToolTip": "Assets\\Scripts\\JuniorFairHelpers\\ObjectType.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCkAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T22:04:17.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T22:04:17.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "PickObject.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\PickObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\JuniorFairHelpers\\PickObject.cs",
               "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\PickObject.cs",
               "RelativeToolTip": "Assets\\Scripts\\JuniorFairHelpers\\PickObject.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAIwF8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwHIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T21:48:32.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T21:48:32.888Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CountDownTimer.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\MasterChef\\CountDownTimer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MasterChef\\CountDownTimer.cs",
@@ -92,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "PickIngredients.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\MasterChef\\PickIngredients.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MasterChef\\PickIngredients.cs",
@@ -104,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "FoodType.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\MasterChef\\FoodType.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MasterChef\\FoodType.cs",
@@ -116,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "OrderedSequence.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JumpForJoy\\OrderedSequence.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\JumpForJoy\\OrderedSequence.cs",
@@ -128,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "NpcRiddles.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\NpcRiddles.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NpcRiddles.cs",
@@ -140,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "RiddleMision.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\RiddleMision.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RiddleMision.cs",
@@ -152,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ManagerNpcRiddles.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\ManagerNpcRiddles.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ManagerNpcRiddles.cs",
@@ -165,18 +197,18 @@
           ]
         },
         {
-          "DockedWidth": 200,
+          "DockedWidth": 174,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Pot.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\MasterChef\\Pot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MasterChef\\Pot.cs",
               "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\MasterChef\\Pot.cs",
               "RelativeToolTip": "Assets\\Scripts\\MasterChef\\Pot.cs",
-              "ViewState": "AgIAAJEAAAAAAAAAAAAYwLQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAYwKAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T03:24:16.592Z",
               "EditorCaption": ""
