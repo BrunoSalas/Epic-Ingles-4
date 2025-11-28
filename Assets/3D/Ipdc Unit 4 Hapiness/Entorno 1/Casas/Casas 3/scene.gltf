@@ -1,0 +1,316 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 16450,
+      "max": [
+        1.1191178560256958,
+        1.619350552558899,
+        0.6258745789527893
+      ],
+      "min": [
+        -1.1259502172470093,
+        -0.5835534930229187,
+        -0.6166008114814758
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 197400,
+      "componentType": 5126,
+      "count": 16450,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 16450,
+      "max": [
+        1.0,
+        0.9999997019767761,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9999985694885254,
+        -1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 16450,
+      "max": [
+        0.9720332026481628,
+        0.9844083786010742
+      ],
+      "min": [
+        0.009277958422899246,
+        0.008705608546733856
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 131600,
+      "componentType": 5126,
+      "count": 16450,
+      "max": [
+        0.9720332026481628,
+        0.9844083786010742
+      ],
+      "min": [
+        0.009277958422899246,
+        0.008705608546733856
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 263200,
+      "componentType": 5126,
+      "count": 16450,
+      "max": [
+        0.9720332026481628,
+        0.9844083786010742
+      ],
+      "min": [
+        0.009277958422899246,
+        0.008705608546733856
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 73728,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "LucasPresoto (https://sketchfab.com/LucasPresoto)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/medieval-wooden-well-c364167420164db3bc837f351551ba1c",
+      "title": "Medieval Wooden Well"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 294912,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 394800,
+      "byteOffset": 294912,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 394800,
+      "byteOffset": 689712,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 263200,
+      "byteOffset": 1084512,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1347712,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Well_baseColor.png"
+    },
+    {
+      "uri": "textures/Well_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Well_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Well",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Well_Well_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5
+          },
+          "indices": 6,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "10e67d23adad45869b53816cd773a683.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        -0.9999999999999964,
+        1.2246467991473515e-16,
+        8.742278000372476e-08,
+        0.0,
+        -3.698906412640348e-15,
+        0.999999999999999,
+        -4.371138840920244e-08,
+        0.0,
+        -8.742278000372468e-08,
+        -4.37113884092026e-08,
+        -0.9999999999999956,
+        0.0,
+        0.023197541013360023,
+        0.5808151364326477,
+        0.003688014578074217,
+        1.0
+      ],
+      "name": "Well"
+    },
+    {
+      "mesh": 0,
+      "name": "Well_Well_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

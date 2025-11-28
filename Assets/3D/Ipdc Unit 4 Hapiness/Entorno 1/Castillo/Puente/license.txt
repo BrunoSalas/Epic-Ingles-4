@@ -1,0 +1,11 @@
+Model Information:
+* title:	Medieval bridge
+* source:	https://sketchfab.com/3d-models/medieval-bridge-565a1cd4930d4560947b0e539cf6fed5
+* author:	Andrei CG (https://sketchfab.com/aagames)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Medieval bridge" (https://sketchfab.com/3d-models/medieval-bridge-565a1cd4930d4560947b0e539cf6fed5) by Andrei CG (https://sketchfab.com/aagames) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Queen's Crown
+* source:	https://sketchfab.com/3d-models/queens-crown-45d96f2f0e124ae8b06293add20991de
+* author:	Stephanus Tavilrond (https://sketchfab.com/waysofdarkness)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Queen's Crown" (https://sketchfab.com/3d-models/queens-crown-45d96f2f0e124ae8b06293add20991de) by Stephanus Tavilrond (https://sketchfab.com/waysofdarkness) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

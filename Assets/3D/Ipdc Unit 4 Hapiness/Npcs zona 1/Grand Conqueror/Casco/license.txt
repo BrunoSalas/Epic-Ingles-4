@@ -1,0 +1,11 @@
+Model Information:
+* title:	Helmet
+* source:	https://sketchfab.com/3d-models/helmet-e76d666c00be4cef9e25738e3603fa44
+* author:	danielgobr481 (https://sketchfab.com/danielgobr481)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Helmet" (https://sketchfab.com/3d-models/helmet-e76d666c00be4cef9e25738e3603fa44) by danielgobr481 (https://sketchfab.com/danielgobr481) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

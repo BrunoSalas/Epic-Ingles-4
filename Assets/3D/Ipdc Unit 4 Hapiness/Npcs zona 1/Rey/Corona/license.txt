@@ -1,0 +1,11 @@
+Model Information:
+* title:	Crown
+* source:	https://sketchfab.com/3d-models/crown-49ca1c28a7064ab1860eb679b9775ca6
+* author:	mahesh_d (https://sketchfab.com/mahesh_d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Crown" (https://sketchfab.com/3d-models/crown-49ca1c28a7064ab1860eb679b9775ca6) by mahesh_d (https://sketchfab.com/mahesh_d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
