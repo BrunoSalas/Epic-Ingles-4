@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "E:\\Proyectos\\Epic-Ingles-4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|e:\\proyectos\\epic-ingles-4\\assets\\scripts\\juniorfairhelpers\\checkcompletetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\juniorfairhelpers\\checkcompletetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|e:\\proyectos\\epic-ingles-4\\assets\\scripts\\happiness\\managerplatformriddles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\happiness\\managerplatformriddles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\juniorfairhelpers\\placementzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\juniorfairhelpers\\placementzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|e:\\proyectos\\epic-ingles-4\\assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\lifemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\lifemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\controlleraudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\controlleraudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\happiness\\uimessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\happiness\\uimessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\juniorfairhelpers\\checkcompletetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\juniorfairhelpers\\checkcompletetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\juniorfairhelpers\\objecttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\juniorfairhelpers\\objecttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\juniorfairhelpers\\pickobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\juniorfairhelpers\\pickobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|e:\\proyectos\\epic-ingles-4\\assets\\scripts\\masterchef\\pot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\masterchef\\pot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\masterchef\\countdowntimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,16 +51,8 @@
       "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\jumpforjoy\\orderedsequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\npcriddles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\npcriddles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\riddlemision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\riddlemision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\managernpcriddles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\managernpcriddles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,31 +67,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CheckCompleteTask.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\CheckCompleteTask.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\JuniorFairHelpers\\CheckCompleteTask.cs",
-              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\CheckCompleteTask.cs",
-              "RelativeToolTip": "Assets\\Scripts\\JuniorFairHelpers\\CheckCompleteTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "ManagerPlatformRiddles.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\Happiness\\ManagerPlatformRiddles.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Happiness\\ManagerPlatformRiddles.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\Happiness\\ManagerPlatformRiddles.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Happiness\\ManagerPlatformRiddles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T18:02:14.293Z",
+              "WhenOpened": "2025-11-29T01:25:06.032Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PlacementZone.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\PlacementZone.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\JuniorFairHelpers\\PlacementZone.cs",
-              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\PlacementZone.cs",
-              "RelativeToolTip": "Assets\\Scripts\\JuniorFairHelpers\\PlacementZone.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowDoAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ControllerAudio.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\ControllerAudio.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControllerAudio.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\ControllerAudio.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControllerAudio.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wDEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T22:14:38.986Z"
+              "WhenOpened": "2025-11-28T23:17:06.342Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "NPC.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\NPC.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\NPC.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPC.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T20:54:28.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ObjectType.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\ObjectType.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\JuniorFairHelpers\\ObjectType.cs",
@@ -99,19 +115,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PickObject.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\PickObject.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\JuniorFairHelpers\\PickObject.cs",
-              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\PickObject.cs",
-              "RelativeToolTip": "Assets\\Scripts\\JuniorFairHelpers\\PickObject.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAIwHIAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "UIMessageController.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\Happiness\\UIMessageController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Happiness\\UIMessageController.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\Happiness\\UIMessageController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Happiness\\UIMessageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T21:48:32.888Z"
+              "WhenOpened": "2025-11-28T21:16:20.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
+              "Title": "CheckCompleteTask.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\CheckCompleteTask.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\JuniorFairHelpers\\CheckCompleteTask.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\CheckCompleteTask.cs",
+              "RelativeToolTip": "Assets\\Scripts\\JuniorFairHelpers\\CheckCompleteTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:02:14.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CountDownTimer.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\MasterChef\\CountDownTimer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MasterChef\\CountDownTimer.cs",
@@ -123,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "PickIngredients.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\MasterChef\\PickIngredients.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MasterChef\\PickIngredients.cs",
@@ -135,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "FoodType.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\MasterChef\\FoodType.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MasterChef\\FoodType.cs",
@@ -147,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "OrderedSequence.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JumpForJoy\\OrderedSequence.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\JumpForJoy\\OrderedSequence.cs",
@@ -159,19 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "NpcRiddles.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\NpcRiddles.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\NpcRiddles.cs",
-              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\NpcRiddles.cs",
-              "RelativeToolTip": "Assets\\Scripts\\NpcRiddles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T09:56:05.71Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "RiddleMision.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\RiddleMision.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RiddleMision.cs",
@@ -180,37 +196,37 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T07:44:12.245Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ManagerNpcRiddles.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\ManagerNpcRiddles.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ManagerNpcRiddles.cs",
-              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\ManagerNpcRiddles.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ManagerNpcRiddles.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAIwFMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T07:41:48.177Z"
             }
           ]
         },
         {
-          "DockedWidth": 174,
+          "DockedWidth": 226,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Pot.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\MasterChef\\Pot.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MasterChef\\Pot.cs",
-              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\MasterChef\\Pot.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MasterChef\\Pot.cs",
-              "ViewState": "AgIAAJEAAAAAAAAAAAAYwKAAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CheckPoint.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\CheckPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CheckPoint.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\CheckPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CheckPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T03:24:16.592Z",
+              "WhenOpened": "2025-11-29T01:48:09.351Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LifeManager.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\LifeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LifeManager.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\LifeManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LifeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T01:21:00.261Z"
             }
           ]
         }

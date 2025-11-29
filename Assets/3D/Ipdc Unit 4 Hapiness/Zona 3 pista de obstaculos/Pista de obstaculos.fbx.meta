@@ -3,7 +3,177 @@ guid: 6eaa56902f9da604bb484164bfa8bda2
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ball.001
+    second: {fileID: 2100000, guid: 04f4eb3fd46bf9a4188bf8aa9c4c0608, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BrownFloor.001
+    second: {fileID: 2100000, guid: 491e33aa8d8cced44953c174953c0b3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BrownFloor.002
+    second: {fileID: 2100000, guid: d38fa5ea232a45c43a05bf9b6aa55c64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BrownFloor.003
+    second: {fileID: 2100000, guid: bf6c691a2565e6748b850ea8d83936dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default-Material.004
+    second: {fileID: 2100000, guid: 80b8f662e290daa45b65ef58badd9e1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fence.001
+    second: {fileID: 2100000, guid: 7469bfdd5ff0034488c64419fee6ef50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fence.009
+    second: {fileID: 2100000, guid: 4491af5251ee0b04c9a94ac2c0b1844a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fence.010
+    second: {fileID: 2100000, guid: 8f852ac4a32fe334e83678d8706247c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fence.011
+    second: {fileID: 2100000, guid: f66b9f7d1f31add4fb0af5d0df50eaf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fence.012
+    second: {fileID: 2100000, guid: 4856a9d0c21b7e74fb807a134c63d33b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fence.013
+    second: {fileID: 2100000, guid: 8322afd4d46ffe247be136fa216f048b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fence.015
+    second: {fileID: 2100000, guid: 168824bfae4518440a5253caf4eb20cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fence4
+    second: {fileID: 2100000, guid: 57e888281d1d1e8418ba9812e3ee75fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fence4.003
+    second: {fileID: 2100000, guid: a4f2041397ec6804184ef2d52c76341b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fence4.004
+    second: {fileID: 2100000, guid: d4463410c1a1a2642934181654d61098, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Level5Arrow
+    second: {fileID: 2100000, guid: 8fb7f06e89ad90149802cfcab5e2ffa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Level5Highlight
+    second: {fileID: 2100000, guid: 2cba1c6973fd10f4a97be24d4082bf8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Level6Floor1.001
+    second: {fileID: 2100000, guid: 5ea06c952a5eb344aa2842a8be9e2eb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No_Name.001
+    second: {fileID: 2100000, guid: f3ec21b5442273d41b4c8172e4e06bf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PaddleMaterial.001
+    second: {fileID: 2100000, guid: 55fcb2d99b391f7428fc931433090d15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ProBuilderDefault.002
+    second: {fileID: 2100000, guid: 32e33c2ccec39ff4a936fbde8dae65cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RailMaterial
+    second: {fileID: 2100000, guid: 52699c490431da2448fea5dbe7968eac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RailMaterial.001
+    second: {fileID: 2100000, guid: 1776d8a51d55f1249a6bc5fd06d20920, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RailMaterial.002
+    second: {fileID: 2100000, guid: fa11bd91537900146bb25177eacf2f27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RisingPlatform.001
+    second: {fileID: 2100000, guid: aa4ccdc91e7ecd144b009c671f8ea2e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rollerarrow.007
+    second: {fileID: 2100000, guid: 2f345fcca4c35fd4cb2a3127ab6a3891, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SpinningPlatform3.001
+    second: {fileID: 2100000, guid: 4f4a062797ef8c1468d90236bdc29c47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SpinnyHammer2.003
+    second: {fileID: 2100000, guid: 99c19f0ed688b6f47afe531cc8437bb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SpinnyHammer3
+    second: {fileID: 2100000, guid: a16542a3a09fac549a556b35e19e75ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SpinnyPaddle3.001
+    second: {fileID: 2100000, guid: 956585ca778bd1e44bf5d386c3db8c45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blue_metal_plate
+    second: {fileID: 2100000, guid: 7072abfedae198b4297500a58202b9ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fabric_leather_02
+    second: {fileID: 2100000, guid: d45c152cabee26c419c6b0070917d77f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor_side.001
+    second: {fileID: 2100000, guid: cb7a016ebf16ecf448d083b59a9773b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_floor
+    second: {fileID: 2100000, guid: 055686f26627d29428dc1bd7c0074046, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -37,7 +207,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 2
-    addColliders: 0
+    addColliders: 1
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
     importVisibility: 1
@@ -47,7 +217,7 @@ ModelImporter:
     nodeNameCollisionStrategy: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
@@ -60,12 +230,12 @@ ModelImporter:
     meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
-    secondaryUVAreaDistortion: 15.000001
+    secondaryUVAreaDistortion: 15
     secondaryUVHardAngle: 88
-    secondaryUVMarginMethod: 1
+    secondaryUVMarginMethod: 0
     secondaryUVMinLightmapResolution: 40
     secondaryUVMinObjectScale: 1
-    secondaryUVPackMargin: 4
+    secondaryUVPackMargin: 12
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
