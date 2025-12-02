@@ -14,6 +14,7 @@ public class NpcRiddles : MonoBehaviour
 
     public void AudioInit()
     {
+        if(audio_Riddle != null) 
         AudiosResponse(audio_Riddle);
         Manag_riddle.RiddlesUpdate(this);
     }
