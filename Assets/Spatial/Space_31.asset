@@ -14,15 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 1
   sku: 
-  packageName: Space_31
-  thumbnail: {fileID: 0}
-  savedProjectSettings: {fileID: 0}
+  packageName: The Happiness Paradox - Central
+  thumbnail: {fileID: 2800000, guid: a7ac13f5ce8a140408f923090ac62155, type: 3}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
   worldID: 
-  scene: {fileID: 0}
-  csharpAssembly: {fileID: 0}
+  scene: {fileID: 102900000, guid: 88e92daccad0a454aafbc6602d9695a5, type: 3}
+  csharpAssembly: {fileID: 5897886265953266890, guid: 51937242ba583044d8612fc6f5e09d10,
+    type: 3}
   embeddedPackageAssets: []
   networkPrefabs: []
   settings:
     serverInstancingEnabled: 1
-    serverCapacitySetting: 1
+    serverCapacitySetting: 0
     serverInstanceCapacity: 16
