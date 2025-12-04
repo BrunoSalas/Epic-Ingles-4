@@ -58,6 +58,8 @@ public class ManagerNpcRiddles : MonoBehaviour
                     {
                         allRiddlesComplete?.Invoke();
                     }
+                    if(npc.quest != null)
+                        npc.quest.tasks[npc.indexQuest].CompleteTask();
                     if (response.audioClip!=null)
                     {
                         npc.AudiosResponse(response.audioClip); 

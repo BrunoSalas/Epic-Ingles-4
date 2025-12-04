@@ -28,6 +28,7 @@ public class ObjectType : MonoBehaviour
     private Vector3 originalPosition;
     private Quaternion originalRotation;
     private Vector3 originalScale;
+    public AudioClip clip;
 
     private void Awake()
     {

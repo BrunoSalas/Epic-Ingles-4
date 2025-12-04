@@ -11,6 +11,8 @@ public class PlaceFase4 : MonoBehaviour
     public float moveSpeed = 3f;
     [HideInInspector] public bool completed;
     public UnityEvent finish;
+    public SpatialQuest quest;
+    public int indexQuest;
     public SpatialInteractable interactable;
     public void TryPlaceObject()
     {
@@ -25,6 +27,7 @@ public class PlaceFase4 : MonoBehaviour
             pick.currentObject.SetActive(false);
             pick.Release();
             finish.Invoke();
+            quest.tasks[indexQuest].CompleteTask();
             interactable.enabled = false;
         }
         else if (pick.currentObject != null)

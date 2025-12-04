@@ -12,6 +12,7 @@ public class PickObject : MonoBehaviour
     public SpatialInteractable interactable;
     private bool isMoving = false;
     public float moveSpeed = 5f;
+    public AudioSource audioSource;
 
     [Header("Offset")]
     public Vector3 offset = new Vector3(0, 0.5f, 0);
@@ -71,6 +72,8 @@ public class PickObject : MonoBehaviour
 
         ObjectType typeObj = obj.GetComponent<ObjectType>();
         interactable = typeObj != null ? typeObj.interactable : null;
+        audioSource.clip = typeObj.clip;
+        audioSource.Play();
         if (interactable != null) interactable.enabled = false;
 
         if (typeObj != null)
