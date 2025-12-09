@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class NPC : MonoBehaviour
 {
@@ -15,6 +16,8 @@ public class NPC : MonoBehaviour
     private int indiceActual = 0;
     public ControllerAudio controller;
     [HideInInspector]public bool completed;
+
+    public UnityEvent OnDialogueFinished;
     // Start is called before the first frame update
     void Start()
     {
@@ -52,6 +55,7 @@ public class NPC : MonoBehaviour
         }
         indiceActual = 0;
         startDialogue = false;
+        OnDialogueFinished?.Invoke();
         Debug.Log("Diálogo terminado");
     }
 }

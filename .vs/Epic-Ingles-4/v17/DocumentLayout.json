@@ -3,11 +3,59 @@
   "WorkspaceRootPath": "E:\\Proyectos\\Epic-Ingles-4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|e:\\proyectos\\epic-ingles-4\\assets\\scripts\\timeportalpark\\zona 3\\checkchooseworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\timeportalpark\\zona 3\\checkchooseworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|e:\\proyectos\\epic-ingles-4\\assets\\scripts\\timeportalpark\\zona 3\\worldtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\timeportalpark\\zona 3\\worldtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\timeportalpark\\zona 3\\chooseworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\timeportalpark\\zona 3\\chooseworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\timeportalpark\\zona 3\\pickworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\timeportalpark\\zona 3\\pickworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\timeportalpark\\placeobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\timeportalpark\\placeobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\timeportalpark\\pick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\timeportalpark\\pick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|e:\\proyectos\\epic-ingles-4\\assets\\scripts\\juniorfairhelpers\\fase 2\\pickfase2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\juniorfairhelpers\\fase 2\\pickfase2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\juniorfairhelpers\\fase 2\\missionriddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\juniorfairhelpers\\fase 2\\missionriddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\timeportalpark\\verifycheckchoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\timeportalpark\\verifycheckchoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\timeportalpark\\checkchoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\timeportalpark\\checkchoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\timeportalpark\\correctchoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\timeportalpark\\correctchoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\controlleraudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\controlleraudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|e:\\proyectos\\epic-ingles-4\\assets\\scripts\\juniorfairhelpers\\pickobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\juniorfairhelpers\\pickobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\juniorfairhelpers\\pickobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -21,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\npcriddles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\npcriddles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|e:\\proyectos\\epic-ingles-4\\assets\\scripts\\juniorfairhelpers\\fase 2\\missionriddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\juniorfairhelpers\\fase 2\\missionriddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\juniorfairhelpers\\fase 3\\placefase4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,10 +91,6 @@
       "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\juniorfairhelpers\\fase 2\\typefase2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\juniorfairhelpers\\fase 2\\pickfase2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\juniorfairhelpers\\fase 2\\pickfase2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\juniorfairhelpers\\fase 2\\finalfase2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\juniorfairhelpers\\fase 2\\finalfase2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -65,10 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|solutionrelative:assets\\scripts\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F975902E-1B18-31AC-281C-AC5E9A5EE1E1}|SpartialAssembly.csproj|E:\\Proyectos\\Epic-Ingles-4\\assets\\scripts\\happiness\\uimessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,23 +142,121 @@
       "DocumentGroups": [
         {
           "DockedWidth": 226,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PlaceFase4.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\Fase 3\\PlaceFase4.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\JuniorFairHelpers\\Fase 3\\PlaceFase4.cs",
-              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\Fase 3\\PlaceFase4.cs",
-              "RelativeToolTip": "Assets\\Scripts\\JuniorFairHelpers\\Fase 3\\PlaceFase4.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CheckChooseWorld.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\TimePortalPark\\Zona 3\\CheckChooseWorld.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TimePortalPark\\Zona 3\\CheckChooseWorld.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\TimePortalPark\\Zona 3\\CheckChooseWorld.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TimePortalPark\\Zona 3\\CheckChooseWorld.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T23:46:30.209Z"
+              "WhenOpened": "2025-12-09T23:37:40.385Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
+              "Title": "ChooseWorld.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\TimePortalPark\\Zona 3\\ChooseWorld.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TimePortalPark\\Zona 3\\ChooseWorld.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\TimePortalPark\\Zona 3\\ChooseWorld.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TimePortalPark\\Zona 3\\ChooseWorld.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T23:03:56.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PickWorld.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\TimePortalPark\\Zona 3\\PickWorld.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TimePortalPark\\Zona 3\\PickWorld.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\TimePortalPark\\Zona 3\\PickWorld.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TimePortalPark\\Zona 3\\PickWorld.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T23:00:00.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorldType.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\TimePortalPark\\Zona 3\\WorldType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TimePortalPark\\Zona 3\\WorldType.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\TimePortalPark\\Zona 3\\WorldType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TimePortalPark\\Zona 3\\WorldType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:56:53.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlaceObject.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\TimePortalPark\\PlaceObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TimePortalPark\\PlaceObject.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\TimePortalPark\\PlaceObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TimePortalPark\\PlaceObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:13:32.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pick.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\TimePortalPark\\Pick.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TimePortalPark\\Pick.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\TimePortalPark\\Pick.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TimePortalPark\\Pick.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:08:24.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VerifyCheckChoices.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\TimePortalPark\\VerifyCheckChoices.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TimePortalPark\\VerifyCheckChoices.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\TimePortalPark\\VerifyCheckChoices.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TimePortalPark\\VerifyCheckChoices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T19:06:05.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CheckChoices.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\TimePortalPark\\CheckChoices.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TimePortalPark\\CheckChoices.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\TimePortalPark\\CheckChoices.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TimePortalPark\\CheckChoices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T19:00:10.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CorrectChoice.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\TimePortalPark\\CorrectChoice.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TimePortalPark\\CorrectChoice.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\TimePortalPark\\CorrectChoice.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TimePortalPark\\CorrectChoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:58:59.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "FinalFase2.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\Fase 2\\FinalFase2.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\JuniorFairHelpers\\Fase 2\\FinalFase2.cs",
@@ -134,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "PlaceFase2.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\Fase 2\\PlaceFase2.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\JuniorFairHelpers\\Fase 2\\PlaceFase2.cs",
@@ -146,7 +280,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "NPC.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\NPC.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\NPC.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPC.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T20:54:28.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PlaceFase4.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\Fase 3\\PlaceFase4.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\JuniorFairHelpers\\Fase 3\\PlaceFase4.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\Fase 3\\PlaceFase4.cs",
+              "RelativeToolTip": "Assets\\Scripts\\JuniorFairHelpers\\Fase 3\\PlaceFase4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:46:30.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ObjectType.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\ObjectType.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\JuniorFairHelpers\\ObjectType.cs",
@@ -158,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "PickFase4.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\Fase 3\\PickFase4.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\JuniorFairHelpers\\Fase 3\\PickFase4.cs",
@@ -170,20 +328,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "ControllerAudio.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\ControllerAudio.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ControllerAudio.cs",
               "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\ControllerAudio.cs",
               "RelativeToolTip": "Assets\\Scripts\\ControllerAudio.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T23:17:06.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T23:17:06.342Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "NpcRiddles.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\NpcRiddles.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NpcRiddles.cs",
@@ -195,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "ManagerNpcRiddles.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\ManagerNpcRiddles.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ManagerNpcRiddles.cs",
@@ -207,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "PickObject.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\PickObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\JuniorFairHelpers\\PickObject.cs",
@@ -215,12 +372,11 @@
               "RelativeToolTip": "Assets\\Scripts\\JuniorFairHelpers\\PickObject.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAwwEsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T23:07:18.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T23:07:18.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "TypeFase4.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\Fase 3\\TypeFase4.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\JuniorFairHelpers\\Fase 3\\TypeFase4.cs",
@@ -232,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "ManagerPlatformRiddles.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\Happiness\\ManagerPlatformRiddles.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Happiness\\ManagerPlatformRiddles.cs",
@@ -244,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "PlacementZone.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\PlacementZone.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\JuniorFairHelpers\\PlacementZone.cs",
@@ -256,19 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "NPC.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\NPC.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC.cs",
-              "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\NPC.cs",
-              "RelativeToolTip": "Assets\\Scripts\\NPC.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwCMAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T20:54:28.834Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
               "Title": "UIMessageController.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\Happiness\\UIMessageController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Happiness\\UIMessageController.cs",
@@ -280,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
               "Title": "CheckCompleteTask.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\CheckCompleteTask.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\JuniorFairHelpers\\CheckCompleteTask.cs",
@@ -292,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "CountDownTimer.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\MasterChef\\CountDownTimer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MasterChef\\CountDownTimer.cs",
@@ -304,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "PickIngredients.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\MasterChef\\PickIngredients.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MasterChef\\PickIngredients.cs",
@@ -316,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 29,
               "Title": "FoodType.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\MasterChef\\FoodType.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MasterChef\\FoodType.cs",
@@ -328,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "OrderedSequence.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JumpForJoy\\OrderedSequence.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\JumpForJoy\\OrderedSequence.cs",
@@ -340,7 +484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 32,
               "Title": "RiddleMision.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\RiddleMision.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RiddleMision.cs",
@@ -354,36 +498,36 @@
         },
         {
           "DockedWidth": 226,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "MissionRiddle.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\Fase 2\\MissionRiddle.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\JuniorFairHelpers\\Fase 2\\MissionRiddle.cs",
               "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\Fase 2\\MissionRiddle.cs",
               "RelativeToolTip": "Assets\\Scripts\\JuniorFairHelpers\\Fase 2\\MissionRiddle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T02:04:17.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T02:04:17.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "PickFase2.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\Fase 2\\PickFase2.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\JuniorFairHelpers\\Fase 2\\PickFase2.cs",
               "ToolTip": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\Fase 2\\PickFase2.cs",
               "RelativeToolTip": "Assets\\Scripts\\JuniorFairHelpers\\Fase 2\\PickFase2.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAowE0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T23:32:26.092Z"
+              "WhenOpened": "2025-12-01T23:32:26.092Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
               "Title": "CheckPoint.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\CheckPoint.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CheckPoint.cs",
@@ -395,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "TypeFase2.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Ingles-4\\Assets\\Scripts\\JuniorFairHelpers\\Fase 2\\TypeFase2.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\JuniorFairHelpers\\Fase 2\\TypeFase2.cs",
