@@ -13,7 +13,7 @@ Material:
   - _EMISSION
   - _NORMALMAP
   m_InvalidKeywords: []
-  m_LightmapFlags: 1
+  m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -44,7 +44,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
-        m_Texture: {fileID: 2800000, guid: 3494c523121cd7644b822fcf5266709c, type: 3}
+        m_Texture: {fileID: 2800000, guid: 366310bf68a37bd49a70383d4f730be6, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
@@ -112,7 +112,7 @@ Material:
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _EmissionColor: {r: 3.9999995, g: 3.9999995, b: 3.9999995, a: 1}
+    - _EmissionColor: {r: 5.3403134, g: 5.3403134, b: 5.3403134, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &1573652315481157407
