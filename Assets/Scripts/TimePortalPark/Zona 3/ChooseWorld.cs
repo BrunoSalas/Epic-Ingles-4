@@ -31,6 +31,7 @@ public class ChooseWorld : MonoBehaviour
             pick.Release();
             completed = true;
             interactable.enabled = false;
+            CheckChooseWorld.instance.Check();
         }
     }
 
